@@ -295,9 +295,9 @@ a {
   position: relative;
 }
 
- .intro__bg{
-  background-image: url("../img/intro/intro_img.png"); }
-
+/* .intro__bg{
+  background-image: url("../img/intro/intro_img.webp"); 
+} */
 .intro__bg {
   position: absolute;
   left: 0;
